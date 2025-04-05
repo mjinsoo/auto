@@ -1,6 +1,6 @@
 # kuLimo
 
-파이썬
+- 파이썬
 https://github.com/freshmea/kuLimo/tree/main/python_pdf
 limo 수업
 - 파일 다운로드
